@@ -1,0 +1,1 @@
+﻿positionForPages[1]={page:1,positions:[{word:"Government Engineering college Barton Hill",left:0.194337,top:0.891567,width:0.611336,height:0.020373},{word:"Thiruvananthapuram",left:0.351675,top:0.912733,width:0.296637,height:0.020373}]};

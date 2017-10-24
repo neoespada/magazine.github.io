@@ -1,0 +1,1 @@
+﻿positionForPages[2]={page:2,positions:[{word:"1",left:0.888339,top:0.944188,width:0.012065,height:0.021202},{word:"Govt.Engineering College Barton Hill, TVM ",left:0.163751,top:0.949154,width:0.267861,height:0.013629}]};
